@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.header {
+    min-height: 650px;
+    width: 100%;
+    background-image: url(image/cover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+
+
+}
+
+.hading {
+    padding-top: 200px;
+    font-size: 50px;
+}
+
+h3 {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+a {
+    text-decoration: none;
+    background-color: coral;
+
+}
+
+.button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 20px;
+}
