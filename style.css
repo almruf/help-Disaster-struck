@@ -74,8 +74,102 @@ ul {
 }
 
 #submit {
-    padding: 15px 30px;
+    margin-top: 30px;
+    padding: 15px 20px;
     border: 3px solid wheat;
     border-radius: 15px;
     box-shadow: 5px 5px 5px 5px rgb(116, 192, 116);
 }
+
+#catagory {
+    padding-top: 100px;
+    height: 600px;
+}
+
+#had-catagory {
+    font-size: 40px;
+}
+
+#box-cata {
+
+    margin-left: 12%;
+    display: flex;
+    text-align: center;
+    height: 300px;
+
+}
+
+.dnet-cata {
+    width: 23%;
+    margin-left: 50px;
+    background-color: bisque;
+}
+
+.icon {
+    height: 100px;
+    padding-right: 220px;
+    padding-top: 10px;
+    padding-bottom: 45px;
+
+}
+
+.box2 {
+    background-color: skyblue;
+}
+
+.box3 {
+    background-color: aqua;
+}
+
+#form {
+    height: 500px;
+    width: 50%;
+    padding-left: 25%;
+}
+
+.from-hed {
+    font-size: 40px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+
+}
+
+#form-box {
+    background-color: coral;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#from-mail {
+    height: 30px;
+    width: 200px;
+}
+
+.subject {
+    height: 30px;
+    width: 300px;
+}
+
+#submt {
+    margin-top: 15px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px 3px skyblue;
+}
+
+img {
+    display: inline;
+    width: 40%;
+    height: 300px;
+}
+
+#footer {
+    height: 100px;
+    background-color: darkslategrey;
+}
+
+h4 {
+    padding-top: 30px;
+}
+
+]
